@@ -1,0 +1,14 @@
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/bin/Debug/net8.0/Numberer
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/bin/Debug/net8.0/Numberer.deps.json
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/bin/Debug/net8.0/Numberer.runtimeconfig.json
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/bin/Debug/net8.0/Numberer.dll
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/bin/Debug/net8.0/Numberer.pdb
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/obj/Debug/net8.0/Numberer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/obj/Debug/net8.0/Numberer.AssemblyInfoInputs.cache
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/obj/Debug/net8.0/Numberer.AssemblyInfo.cs
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/obj/Debug/net8.0/Numberer.csproj.CoreCompileInputs.cache
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/obj/Debug/net8.0/Numberer.dll
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/obj/Debug/net8.0/refint/Numberer.dll
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/obj/Debug/net8.0/Numberer.pdb
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/obj/Debug/net8.0/Numberer.genruntimeconfig.cache
+/Users/neptune/Documents/GitHub/C# OOP/Week1/Numberer/Numberer/obj/Debug/net8.0/ref/Numberer.dll
